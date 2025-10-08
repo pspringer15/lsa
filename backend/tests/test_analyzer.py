@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+2#!/usr/bin/env python3
 """
 Unit tests for the sentiment analyzer service.
 Run with: python test_analyzer.py
