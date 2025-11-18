@@ -1,4 +1,4 @@
-# LinkedIn Sentiment Tracker
+# LinkedIn Sentiment Tracker (Trend-In)
 
 Lightweight full-stack MVP that analyzes sentiment of **real LinkedIn posts** across three categories.
 
